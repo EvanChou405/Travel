@@ -1,0 +1,2 @@
+cd travel
+npm run dev
